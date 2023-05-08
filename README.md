@@ -21,7 +21,7 @@ The data used for this project is the Car Dataset . The data includes informatio
 #### * Dealing with nulls
 I filled the intger null values with mean of its column.
 
-#### * Dealing with nulls
+#### * Data Correletion
 I made correletion on data to know the degree relationships between features and determine if this relationship is direct or reverse and this will help in feature reduction by distinguishing the important features to depend on it in training step.
 
 #### * Categorical Features transformation
