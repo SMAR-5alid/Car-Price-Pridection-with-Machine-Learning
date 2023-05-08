@@ -17,7 +17,7 @@ The data used for this project is the Car Dataset . The data includes informatio
 📍 Link of the Dataset : (https://www.kaggle.com/datasets/krishnasyenugula/automobile-data)
 
 ## Steps involved in the Project
-### 1. Data Cleansing
+### 1️⃣ Data Cleansing
 
 #### * Dealing with nulls
 I filled the intger null values with mean of its column.
@@ -28,19 +28,19 @@ I made correletion on data to know the degree relationships between features and
 #### * Categorical Features transformation
 I turned all categorical features to numerical one to facilitate training model 
 
-### 2. Divide data 
+### 2️⃣ Divide data 
 First , I divide data into Features & Labels , and then divide it into train & test with test size 20% 
 
-### 3. Numerical Feature Scaling
+### 3️⃣ Numerical Feature Scaling
 I scaled data to minimize Bios and prevent outliers between the features.
 
-### 4. Apply Linear Regression 
+### 4️⃣ Apply Linear Regression 
 I applied Linear Regression model to the data after training it to pridect the price of cars.
 
-### 5. Evaluate the model
+### 5️⃣ Evaluate the model
 i made this by using mean absolute error and root mean squared error to calculte the accuracy of the model 
 
-### 6. Inverse Transformation of scaling
+### 6️⃣ Inverse Transformation of scaling
 this step is very important to know the actual price predicted . 
 
 
