@@ -39,7 +39,7 @@ The data used for this project is the Car Dataset . The data includes informatio
          I applied Linear Regression model to the data after training it to pridect the price of cars.
 
    ### 5️⃣ Evaluate the model
-         I made this by using mean absolute error and root mean squared error to calculte the accuracy of the model 
+         I made this by using mean absolute error and root mean squared error to calculate the accuracy of the model 
 
    ### 6️⃣ Inverse Transformation of scaling
          This step is very important to know the actual price predicted . 
